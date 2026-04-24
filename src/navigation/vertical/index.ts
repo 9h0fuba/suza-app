@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Attendence',
-    to: { name: 'apps-attendence' },
+    to: { name: 'root' },
     icon: { icon: 'tabler-smart-home' },
   },
 
